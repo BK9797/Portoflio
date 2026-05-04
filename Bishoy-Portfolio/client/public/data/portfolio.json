@@ -1,0 +1,235 @@
+{
+  "profile": {
+    "name": "Bishoy Kamel Mamdouh",
+    "title": "AI Engineer",
+    "subtitle": "AI Engineer | RAG Systems | Computer Vision | NLP | AI Agents",
+    "email": "bishoykamel88@gmail.com",
+    "phone": "01099298946",
+    "location": "Cairo, Egypt",
+    "image": "/images/bishoy-profile.jpg",
+    "summary": "Computer Engineering student passionate about Artificial Intelligence and real-world problems. Experienced in AI projects including epileptic seizure recognition using LSTM and GANs, handwritten medical prescription data extraction using computer vision and NLP, and currently working on RAG systems and AI Agents to build reliable and context-aware AI applications.",
+    "socials": {
+      "github": "",
+      "linkedin": "",
+      "facebook": ""
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelor's Degree, Level 3, Computer Engineering",
+      "institution": "Helwan University",
+      "location": "Cairo, Egypt",
+      "startDate": "08/2022",
+      "endDate": "08/2027",
+      "description": "Computer Engineering undergraduate student."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Instructor",
+      "company": "Wiro Plus",
+      "startDate": "11/2024",
+      "endDate": "09/2025",
+      "description": "Delivered interactive robotics sessions to primary school students, teaching basic programming, electronics, and problem-solving through hands-on projects while fostering engagement and creativity."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Samsung Innovation Campus Scholarship - AI Track",
+      "issuer": "Samsung Innovation Campus",
+      "startDate": "07/2024",
+      "endDate": "10/2024",
+      "description": "Gained practical experience in Python programming, probability, statistics, linear algebra, data analysis, web scraping, and building AI models including machine learning, deep learning, computer vision, NLP, GANs, and model deployment."
+    },
+    {
+      "title": "Full Embedded Systems Diploma",
+      "issuer": "Engineer Mohamed Tarek",
+      "startDate": "",
+      "endDate": "",
+      "description": "Completed a full Embedded Systems Diploma under the supervision of Engineer Mohamed Tarek."
+    },
+    {
+      "title": "Oral Communication B23 (CEFR)",
+      "issuer": "AUC - School of Continuing Education",
+      "startDate": "",
+      "endDate": "",
+      "description": "English Oral Communication B2-C1 CEFR course focused on speaking, listening, reading, and writing for academic and professional communication."
+    }
+  ],
+  "projects": [
+    {
+      "title": "RAG Question Answering System",
+      "description": "Developed a Retrieval-Augmented Generation question answering system using FastAPI, integrating LLMs with a PostgreSQL-backed retrieval pipeline. Implemented API endpoints, managed database migrations with Alembic, and containerized the application using Docker.",
+      "technologies": ["RAG", "LLMs", "FastAPI", "PostgreSQL", "Alembic", "Docker"],
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Extraction of Information from Handwritten Prescriptions",
+      "description": "Built a system using image preprocessing and OCR techniques to structure key medical prescription data including drug names, dosages, and instructions. Deployed the solution as an API using FastAPI.",
+      "technologies": ["Computer Vision", "OCR", "NLP", "FastAPI"],
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Epileptic Seizure Recognition",
+      "description": "Developed deep learning models including ANN, LSTM, and GANs to process time-series data and detect seizure patterns.",
+      "technologies": ["ANN", "LSTM", "GANs", "Deep Learning", "Time Series"],
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Brain Tumor Segmentation | U-Net",
+      "description": "Developed a U-Net based segmentation model to accurately segment tumor regions from medical imaging data.",
+      "technologies": ["U-Net", "Medical Imaging", "Computer Vision", "Segmentation"],
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Table Extraction using YOLO",
+      "description": "Built a YOLO-based system to detect and localize tables in documents, then extract structured data using VLM and export it into CSV format.",
+      "technologies": ["YOLO", "VLM", "Computer Vision", "CSV"],
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Startup Success Prediction",
+      "description": "Built a machine learning project using data cleaning, feature engineering, missing value handling, and model training to predict startup outcomes.",
+      "technologies": ["Machine Learning", "Data Preprocessing", "Feature Engineering"],
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Linux System Programming",
+      "description": "Implemented multiple custom shells including Femto, Pico, Nano, and Micro Shell, plus core Unix utilities demonstrating process management, command parsing, and low-level system calls.",
+      "technologies": ["Linux", "C", "Shell", "System Calls"],
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Tazkarti",
+      "description": "Developed a Bus Ticket Booking Management System as part of a Software Engineering course, applying SDLC principles with authentication, booking management, seat allocation, and revenue tracking.",
+      "technologies": ["JavaFX", "MySQL", "SDLC"],
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Embedded Projects",
+      "description": "Worked on multiple embedded systems projects including door locker security system, car parking sensor, smart home automation, stopwatch system, safe locker application, and voting machine.",
+      "technologies": ["Embedded Systems", "Microcontrollers", "C"],
+      "github": "",
+      "demo": ""
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "items": ["Python", "C++", "C", "Java"]
+    },
+    {
+      "category": "AI & Machine Learning",
+      "items": [
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "OpenCV",
+        "YOLO",
+        "CNNs",
+        "LSTM",
+        "GANs",
+        "NLP",
+        "RAG",
+        "AI Agents",
+        "Data Preprocessing",
+        "Feature Engineering"
+      ]
+    },
+    {
+      "category": "Core Concepts",
+      "items": [
+        "Algorithms & Problem Solving",
+        "OOP",
+        "Debugging",
+        "Software Engineering Principles"
+      ]
+    },
+    {
+      "category": "Systems & Embedded",
+      "items": [
+        "Linux",
+        "Shell Scripting",
+        "Microcontroller Programming",
+        "Circuit Fundamentals"
+      ]
+    },
+    {
+      "category": "Databases",
+      "items": ["PostgreSQL", "MySQL"]
+    },
+    {
+      "category": "MLOps & Deployment",
+      "items": ["FastAPI", "Docker", "Docker Compose"]
+    },
+    {
+      "category": "Tools & Development",
+      "items": [
+        "Visual Studio Code",
+        "Jupyter Notebook",
+        "Google Colab",
+        "Kaggle",
+        "Roboflow",
+        "Git",
+        "GitHub",
+        "Postman",
+        "MySQL Workbench",
+        "Studio 3T",
+        "VirtualBox",
+        "UTM"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "AI Mentor",
+      "organization": "HCC HU",
+      "role": "AI Mentor",
+      "startDate": "07/2025",
+      "endDate": "12/2025"
+    },
+    {
+      "title": "Head of HR",
+      "organization": "FEHU-CPC",
+      "role": "Head of HR",
+      "startDate": "02/2025",
+      "endDate": "08/2025"
+    },
+    {
+      "title": "ComSoc Technical Support",
+      "organization": "IEEE Helwan SB",
+      "role": "ComSoc Technical Support",
+      "startDate": "09/2023",
+      "endDate": "07/2024"
+    },
+    {
+      "title": "Academic Projects Team",
+      "organization": "Pixels Egypt Org.",
+      "role": "Academic Projects Team",
+      "startDate": "11/2023",
+      "endDate": "07/2024"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Advanced"
+    },
+    {
+      "name": "Arabic",
+      "level": "Native"
+    },
+    {
+      "name": "French",
+      "level": "Beginner"
+    }
+  ]
+}

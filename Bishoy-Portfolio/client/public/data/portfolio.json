@@ -1,17 +1,17 @@
 {
   "profile": {
-    "name": "Bishoy Kamel Mamdouh",
+    "name": "Bishoy Kamel",
     "title": "AI Engineer",
     "subtitle": "AI Engineer | RAG Systems | Computer Vision | NLP | AI Agents",
     "email": "bishoykamel88@gmail.com",
     "phone": "01099298946",
     "location": "Cairo, Egypt",
     "image": "/images/bishoy-profile.jpg",
-    "summary": "Computer Engineering student passionate about Artificial Intelligence and real-world problems. Experienced in AI projects including epileptic seizure recognition using LSTM and GANs, handwritten medical prescription data extraction using computer vision and NLP, and currently working on RAG systems and AI Agents to build reliable and context-aware AI applications.",
+    "summary": "Computer Engineering student passionate about Artificial Intelligence and real-world problems. I have developed Al projects including epileptic seizure recognition using LSTM and GANs, and handwritten medical prescription data extraction using computer vision and NLP. Currently, I'm working on RetrievalAugmented Generation (RAG) systems and Al Agents to build more reliable and context-aware Al applications.",
     "socials": {
       "github": "https://github.com/BK9797",
       "linkedin": "https://www.linkedin.com/in/bishoy-kamel-ai/",
-      "facebook": ""
+      "kaggle": "https://www.kaggle.com/bishoykamel97"
     }
   },
   "education": [
@@ -61,63 +61,63 @@
       "title": "RAG Question Answering System",
       "description": "Developed a Retrieval-Augmented Generation question answering system using FastAPI, integrating LLMs with a PostgreSQL-backed retrieval pipeline. Implemented API endpoints, managed database migrations with Alembic, and containerized the application using Docker.",
       "technologies": ["RAG", "LLMs", "FastAPI", "PostgreSQL", "Alembic", "Docker"],
-      "github": "",
+      "github": "https://github.com/BK9797/Rag-App",
       "demo": ""
     },
     {
       "title": "Extraction of Information from Handwritten Prescriptions",
       "description": "Built a system using image preprocessing and OCR techniques to structure key medical prescription data including drug names, dosages, and instructions. Deployed the solution as an API using FastAPI.",
       "technologies": ["Computer Vision", "OCR", "NLP", "FastAPI"],
-      "github": "",
+      "github": "https://github.com/BK9797/Handwritten-Prescriptions",
       "demo": ""
     },
     {
       "title": "Epileptic Seizure Recognition",
       "description": "Developed deep learning models including ANN, LSTM, and GANs to process time-series data and detect seizure patterns.",
       "technologies": ["ANN", "LSTM", "GANs", "Deep Learning", "Time Series"],
-      "github": "",
+      "github": "https://www.kaggle.com/code/bishoykamel97/epileptic-seizure-recognition-team12",
       "demo": ""
     },
     {
       "title": "Brain Tumor Segmentation | U-Net",
       "description": "Developed a U-Net based segmentation model to accurately segment tumor regions from medical imaging data.",
       "technologies": ["U-Net", "Medical Imaging", "Computer Vision", "Segmentation"],
-      "github": "",
+      "github": "https://www.kaggle.com/code/bishoykamel97/brain-tumor-segmentation-u-net",
       "demo": ""
     },
     {
       "title": "Table Extraction using YOLO",
       "description": "Built a YOLO-based system to detect and localize tables in documents, then extract structured data using VLM and export it into CSV format.",
       "technologies": ["YOLO", "VLM", "Computer Vision", "CSV"],
-      "github": "",
+      "github": "https://www.kaggle.com/code/bishoykamel97/table-extraction-using-yolo",
       "demo": ""
     },
     {
       "title": "Startup Success Prediction",
       "description": "Built a machine learning project using data cleaning, feature engineering, missing value handling, and model training to predict startup outcomes.",
       "technologies": ["Machine Learning", "Data Preprocessing", "Feature Engineering"],
-      "github": "",
+      "github": "https://www.kaggle.com/code/bishoykamel97/startup-success-prediction-team14",
       "demo": ""
     },
     {
       "title": "Linux System Programming",
       "description": "Implemented multiple custom shells including Femto, Pico, Nano, and Micro Shell, plus core Unix utilities demonstrating process management, command parsing, and low-level system calls.",
       "technologies": ["Linux", "C", "Shell", "System Calls"],
-      "github": "",
+      "github": "https://github.com/BK9797/Linux-System-Programming",
       "demo": ""
     },
     {
       "title": "Tazkarti",
       "description": "Developed a Bus Ticket Booking Management System as part of a Software Engineering course, applying SDLC principles with authentication, booking management, seat allocation, and revenue tracking.",
       "technologies": ["JavaFX", "MySQL", "SDLC"],
-      "github": "",
+      "github": "https://github.com/BK9797/Tazkarti",
       "demo": ""
     },
     {
       "title": "Embedded Projects",
       "description": "Worked on multiple embedded systems projects including door locker security system, car parking sensor, smart home automation, stopwatch system, safe locker application, and voting machine.",
       "technologies": ["Embedded Systems", "Microcontrollers", "C"],
-      "github": "",
+      "github": "https://github.com/BK9797/Door-Locker-Security-System",
       "demo": ""
     }
   ],
